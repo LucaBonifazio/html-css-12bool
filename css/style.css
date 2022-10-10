@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: white;
+    height: 100vh;
+}
+
+[class*=col-]{
+    background-color: blue;
+}
+
+.nested{
+    background-color: greenyellow;
+}
+
