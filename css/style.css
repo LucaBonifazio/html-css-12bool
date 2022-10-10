@@ -8,12 +8,12 @@ body{
 }
 
 [class*=col-]{
-    background-color: blue;
+    background-color: rgb(68, 138, 218);
     color: white;
 }
 
 .nested{
-    background-color: greenyellow;
+    background-color: rgb(24, 219, 53);
     color: black;
 }
 
