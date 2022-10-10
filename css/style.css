@@ -4,14 +4,16 @@ body{
 
 .container{
     background-color: white;
-    height: 100vh;
+    padding-bottom: 2rem;
 }
 
 [class*=col-]{
     background-color: blue;
+    color: white;
 }
 
 .nested{
     background-color: greenyellow;
+    color: black;
 }
 

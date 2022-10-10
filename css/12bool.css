@@ -9,7 +9,6 @@
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    color: white;
 }
 
 [class*=col-]{
@@ -21,7 +20,7 @@
 }
 
 .g-1{
-    padding: 1rem;
+    padding: .5rem;
 }
 
 .h-100{
@@ -29,7 +28,11 @@
 }
 
 .b-1{
-    border: 2px solid white;
+    border: 1px solid white;
+}
+
+.b-2{
+    border: 1px solid black;
 }
 
 .text-center{
