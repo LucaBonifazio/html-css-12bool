@@ -11,6 +11,10 @@
     margin: 0 auto;
 }
 
+h1{
+    padding: 1rem;
+}
+
 [class*=col-]{
     height: 50px;
 }
